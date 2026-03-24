@@ -1,0 +1,7 @@
+# Cole os links dos vídeos abaixo, um por linha
+# Linhas com # são ignoradas
+# Linhas em branco também são ignoradas
+
+https://www.youtube.com/watch?v=EXEMPLO1
+https://www.youtube.com/watch?v=EXEMPLO2
+https://www.youtube.com/watch?v=EXEMPLO3

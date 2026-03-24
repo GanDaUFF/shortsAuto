@@ -1,0 +1,21 @@
+{
+  "name": "shorts-generator",
+  "version": "3.0.0",
+  "description": "Gera shorts a partir de vídeo longo (Whisper local + Claude manual)",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node src/index.js interactive",
+    "interactive": "node src/index.js interactive",
+    "transcribe": "node src/index.js transcribe",
+    "cut": "node src/index.js cut",
+    "batch": "node src/index.js batch",
+    "process-cuts": "node src/index.js process-cuts",
+    "status": "node src/index.js status"
+  },
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "inquirer": "^13.3.2",
+    "ora": "^9.3.0"
+  }
+}
